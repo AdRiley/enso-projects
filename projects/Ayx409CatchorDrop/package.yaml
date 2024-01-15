@@ -1,0 +1,8 @@
+name: 'Ayx #409: Catch or Drop?'
+namespace: local
+version: 0.0.1
+license: ''
+authors: []
+maintainers: []
+edition: 2024.1.1-dev
+prefer-local-libraries: true
