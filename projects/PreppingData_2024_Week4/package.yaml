@@ -1,7 +1,8 @@
-name: JoinBenchmark
+name: PreppingData_2024_Week4
 namespace: local
 version: 0.0.1
-license: ""
+license: ''
 authors: []
 maintainers: []
+edition: 2024.1.1-nightly.2024.1.25
 prefer-local-libraries: true
