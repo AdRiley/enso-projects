@@ -1,0 +1,8 @@
+name: GitHubAssetCountExtractor
+namespace: local
+version: 0.0.1
+license: ''
+authors: []
+maintainers: []
+edition: 2024.1.1-nightly.2024.4.12
+prefer-local-libraries: true
